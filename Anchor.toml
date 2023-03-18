@@ -2,13 +2,13 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-wsos_bank = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+wsos_bank = "3B6f2Je2icMfVAAdAMj7AaMZjif6jmYW52YioZtudWvk"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "./id.json"
 
 [scripts]
